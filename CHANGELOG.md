@@ -4,7 +4,7 @@
 
 ### Fixed
 
-- [SECURITY VULNERABILITY] Authenticated Remote Code Execution (GHSA-hv79-p62r-wg3p) pateched as in https://github.com/cachethq/cachet/commit/6fb043e109d2a262ce3974e863c54e9e5f5e0587 
+- [SECURITY VULNERABILITY] Authenticated Remote Code Execution (GHSA-hv79-p62r-wg3p) patched as in https://github.com/cachethq/cachet/commit/6fb043e109d2a262ce3974e863c54e9e5f5e0587 
 
 ## [2.5.1]
 
